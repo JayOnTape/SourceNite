@@ -3,8 +3,8 @@ A Recreation of OG Fortnite's Movement in UE5.4.4
 
 Current Features:
 - Basic Locomotion with Start and Stop Animations.
+- Additve Animations.
 - Replicated Sprinting.
-- Replicated Aim Offset.
 
 Planned Features:
 - Crouching.
@@ -12,3 +12,4 @@ Planned Features:
 - Crouch Sprinting.
 - Pivot.
 - Jump Up, Apex, Fall and Land Animation.
+- Replicated Aim Offset.
