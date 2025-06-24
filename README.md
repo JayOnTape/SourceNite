@@ -5,9 +5,15 @@
 This Project is still being worked on! Not all features have been added yet.
 
 ### Features:
-> - Replicated Sprinting and Movement
+> - Replicated Sprinting and Movement.
 > 
 > - Smooth and Accurate Locomotion.
 > 
-> - Easy-To-Edit Animation Types
+> - Easy-To-Edit Animation Types.
 
+### Planned/Upcoming Features:
+> - Replicated Crouching.
+> 
+> - Turn and Pivot Animations.
+> 
+> - Basic Aiming System.
