@@ -3,6 +3,7 @@ A Recreation of Fortnite Chapter 1's Movement and Locomotion.
 
 Features:
 - Replicated Sprinting and Movement
+> *(Close Movement and Feel to Fortnite Chapter 1 but is not 100% Accurate.)*
 - Smooth and Accurate Locomotion.
 > *(Start, Jog, Stop and Sprint, Pivot has not been implemented yet!)*
 - Easy-To-Edit Animation Types
