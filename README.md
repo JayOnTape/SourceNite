@@ -18,5 +18,5 @@ Please remember that this project is for personal and educational use and is sti
 > 
 > - Basic Aiming System.
 
-# LEGAL DISCLAIMER
-> Portions of the materials used are trademarks and/or copyrighted works of Epic Games Inc. All rights reserved by Epic Games! This material is not Official nor is it endorsed by Epic!
+# LEGAL DISCLAIMER!
+> Portions of the materials used are trademarks and/or copyrighted works of Epic Games Inc. All rights reserved by Epic Games Inc! This material is not official nor is it endorsed by Epic Games!
