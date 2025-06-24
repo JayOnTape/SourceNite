@@ -3,9 +3,8 @@
 
 ### Features:
 > - Replicated Sprinting and Movement
-> *(Close Movement and Feel to Fortnite but is not 100% Accurate.)*
+> 
 > - Smooth and Accurate Locomotion.
-> *(Start, Jog, Stop and Sprint, Pivot has not been implemented yet.)*
+> 
 > - Easy-To-Edit Animation Types
-> *(Pickaxe and No Weapon have been made as examples.)*
 
