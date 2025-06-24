@@ -5,11 +5,11 @@
 Please remember that this project is for personal and educational use and is still being worked on! Not all planned features have been added yet. Please credit me if you use this for fangames or projects!
 
 ### Features:
-> - Replicated Sprinting and Movement.
+> - Replicated Sprinting.
 > 
-> - Smooth and Accurate Locomotion.
+> - Pretty Accurate Locomotion to Fortnite including Start, Jog, Stop and Sprint Animations.
 > 
-> - Easy-To-Edit Animation Types.
+> - Easy-To-Edit Animation Types for creating Upperbody Animations for different Weapons and Items.
 
 ### Planned/Upcoming Features:
 > - Replicated Crouching.
