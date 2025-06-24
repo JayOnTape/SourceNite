@@ -2,7 +2,7 @@
 ### A Recreation of Fortnite Chapter 1's Movement and Locomotion in Unreal Engine 5.4.4
 
 > [!WARNING]
-Please remember that this project is for personal and educational use and is still being worked on! Not all features have been added yet, please credit me if you use this for fangames or projects!
+Please remember that this project is for personal and educational use and is still being worked on! Not all planned features have been added yet. Please credit me if you use this for fangames or projects!
 
 ### Features:
 > - Replicated Sprinting and Movement.
