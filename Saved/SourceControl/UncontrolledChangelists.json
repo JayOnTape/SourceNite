@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Admin/Documents/The Vault/Projects/Unreal Engine Projects/FortSource (Open Source Project)/FortniteGame/FortSource/Content/TestMap.umap",
+				"C:/Users/Admin/Documents/The Vault/Projects/Unreal Engine Projects/FortSource (Open Source Project)/FortniteGame/FortSource/Content/Characters/Player/Male/Male_Avg_Base/Fortnite_M_Avg_Player_Skeleton_AnimBlueprint.uasset",
+				"C:/Users/Admin/Documents/The Vault/Projects/Unreal Engine Projects/FortSource (Open Source Project)/FortniteGame/FortSource/Content/Athena/PlayerPawn_Athena.uasset",
+				"C:/Users/Admin/Documents/The Vault/Projects/Unreal Engine Projects/FortSource (Open Source Project)/FortniteGame/FortSource/Content/Animation/Game/MainPlayer/Locomotion/Medium/Male/Jump/AssaultRifle/M_JumpApex_ARDS_Loop_Additive.uasset",
+				"C:/Users/Admin/Documents/The Vault/Projects/Unreal Engine Projects/FortSource (Open Source Project)/FortniteGame/FortSource/Content/Blueprints/Animations/FortAnimType.uasset",
+				"C:/Users/Admin/Documents/The Vault/Projects/Unreal Engine Projects/FortSource (Open Source Project)/FortniteGame/FortSource/Content/Blueprints/Animations/Anims_NoWeapon.uasset"
+			]
+		}
+	]
+}
