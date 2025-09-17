@@ -5,11 +5,11 @@
 Please remember that this project is for personal and educational use and is still being worked on! Not all planned features have been added yet. Please credit me if you use this for fangames or projects!
 
 ### Features:
-> - Basic Movement with Jumping and Sprinting
+> - Basic Movement with Jumping and Sprinting.
 >
 > - Accurate Locomotion to Fortnite. (Not 1:1 but will be improved over time.)
 >
-> - Easy-To-Edit Animation Types for creating Upperbody Animations for different Weapons and Items.
+> - Includes No Weapon and Pickaxe Animations already setup.
 
 ### Planned/Upcoming Features:
 > - Lean Additives for Sprint, Jump
